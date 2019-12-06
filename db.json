@@ -1,0 +1,150 @@
+{
+  "permissions": {},
+  "error": {},
+  "value": {
+    "cards": [
+      {
+        "card_type": "AT_IMO_ENROL",
+        "data": {
+          "id": "5b49ba86-ce26-11e9-87e4-c4b301c785cf",
+          "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+          "state": "ENROLLED",
+          "grade": "3",
+          "program_type": "IMO"
+        },
+        "group": "IMO"
+      },
+      {
+        "card_type": "PS_SESSION",
+        "data": {
+          "total_questions_attempted": 0,
+          "user_band_code": "IN_0126",
+          "id": "c156e724-1744-11ea-aa67-c4b301c785cf",
+          "score_human": 0,
+          "total_questions": 94,
+          "alpha": null,
+          "submitted_on_ts": null,
+          "__error__": null,
+          "max_score": 100,
+          "time_alloted": 600,
+          "total_correct_answers": 0,
+          "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+          "started_on_ts": null,
+          "tasks": [
+            {
+              "total_questions_attempted": 0,
+              "id": "c165ba54-1744-11ea-8d18-c4b301c785cf",
+              "score_human": 0,
+              "total_questions": 9,
+              "layout_type": "clozetext",
+              "submitted_on_ts": null,
+              "total_correct_answers": 0,
+              "topic_name": "Advanced Percentages",
+              "time_alloted": 120,
+              "user_thread_id": "f7a69752-df90-11e9-a978-c4b301c785cf",
+              "learning_objectives": "Finding the missing number in percentage equations",
+              "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+              "user_session_id": "c156e724-1744-11ea-aa67-c4b301c785cf",
+              "accuracy": null,
+              "alpha": null,
+              "task_score_max_human": 100
+            },
+            {
+              "total_questions_attempted": 0,
+              "id": "c16aa0ca-1744-11ea-b87d-c4b301c785cf",
+              "score_human": 0,
+              "total_questions": 9,
+              "layout_type": "clozetext",
+              "submitted_on_ts": null,
+              "total_correct_answers": 0,
+              "topic_name": "Intermediate Percentages",
+              "time_alloted": 120,
+              "user_thread_id": "f7a693cc-df90-11e9-9e85-c4b301c785cf",
+              "learning_objectives": "Calculating the percentage of two numbers",
+              "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+              "user_session_id": "c156e724-1744-11ea-aa67-c4b301c785cf",
+              "accuracy": null,
+              "alpha": null,
+              "task_score_max_human": 100
+            },
+            {
+              "total_questions_attempted": 0,
+              "id": "c16e69e2-1744-11ea-bd83-c4b301c785cf",
+              "score_human": 0,
+              "total_questions": 12,
+              "layout_type": "clozetext",
+              "submitted_on_ts": null,
+              "total_correct_answers": 0,
+              "topic_name": "Basic Percentages",
+              "time_alloted": 120,
+              "user_thread_id": "f7a68d48-df90-11e9-bab3-c4b301c785cf",
+              "learning_objectives": "Identifying the percentage value of a number",
+              "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+              "user_session_id": "c156e724-1744-11ea-aa67-c4b301c785cf",
+              "accuracy": null,
+              "alpha": null,
+              "task_score_max_human": 100
+            },
+            {
+              "total_questions_attempted": 0,
+              "id": "c175a41c-1744-11ea-9027-c4b301c785cf",
+              "score_human": 0,
+              "total_questions": 26,
+              "layout_type": "sc_bf",
+              "submitted_on_ts": null,
+              "total_correct_answers": 0,
+              "topic_name": "Primes & Composites",
+              "time_alloted": 120,
+              "user_thread_id": "c3ed22d8-05ee-11ea-b553-c4b301c785cf",
+              "learning_objectives": "Classify numbers as primes and composites",
+              "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+              "user_session_id": "c156e724-1744-11ea-aa67-c4b301c785cf",
+              "accuracy": null,
+              "alpha": null,
+              "task_score_max_human": 100
+            },
+            {
+              "total_questions_attempted": 0,
+              "id": "c1787fcc-1744-11ea-950b-c4b301c785cf",
+              "score_human": 0,
+              "total_questions": 21,
+              "layout_type": "sc_bf",
+              "submitted_on_ts": null,
+              "total_correct_answers": 0,
+              "topic_name": "Factors & Multiples",
+              "time_alloted": 120,
+              "user_thread_id": "c3ed260a-05ee-11ea-88d1-c4b301c785cf",
+              "learning_objectives": "Identify the factors and multiples of the given number",
+              "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+              "user_session_id": "c156e724-1744-11ea-aa67-c4b301c785cf",
+              "accuracy": null,
+              "alpha": null,
+              "task_score_max_human": 100
+            },
+            {
+              "total_questions_attempted": 0,
+              "id": "c17dab34-1744-11ea-93e9-c4b301c785cf",
+              "score_human": 0,
+              "total_questions": 17,
+              "layout_type": "clozetext",
+              "submitted_on_ts": null,
+              "total_correct_answers": 0,
+              "topic_name": "Place Values",
+              "time_alloted": 120,
+              "user_thread_id": "c3ed1930-05ee-11ea-acc2-c4b301c785cf",
+              "learning_objectives": "Figure out units, tens, hundreds, thousands place in a number",
+              "user_id": "c11a675e-f9fd-11e7-88ee-02420a000018",
+              "user_session_id": "c156e724-1744-11ea-aa67-c4b301c785cf",
+              "accuracy": null,
+              "alpha": null,
+              "task_score_max_human": 100
+            }
+          ],
+          "accuracy": 0,
+          "session_score": 0
+        },
+        "group": "MG"
+      }
+    ]
+  }
+}
